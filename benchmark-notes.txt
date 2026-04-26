@@ -1,0 +1,23 @@
+# M1 first run
+
+--- Metrics ---
+Total duration sec: 83.694708
+Load duration sec: 5.945485833
+Prompt tokens: 301
+Output tokens: 1200
+Prompt eval sec: 1.556563208
+Output eval sec: 72.901081556
+Tokens/sec: 16.46066113680636
+
+# M1 second run
+
+--- Metrics ---
+Total duration sec: 75.385808834
+Load duration sec: 0.243096
+Prompt tokens: 301
+Output tokens: 1200
+Prompt eval sec: 0.067743
+Output eval sec: 72.641637882
+Tokens/sec: 16.519451309031542
+
+
