@@ -21,3 +21,25 @@ Output eval sec: 72.641637882
 Tokens/sec: 16.519451309031542
 
 
+# M5 first run
+
+--- Metrics ---
+Total duration sec: 21.803182041
+Load duration sec: 1.406884166
+Prompt tokens: 300
+Output tokens: 1200
+Prompt eval sec: 0.504435083
+Output eval sec: 19.200089618
+Tokens/sec: 62.49970827610124
+
+# M5 second run
+
+--- Metrics ---
+Total duration sec: 19.697982791
+Load duration sec: 0.155447083
+Prompt tokens: 300
+Output tokens: 1200
+Prompt eval sec: 0.078957208
+Output eval sec: 19.158013264
+Tokens/sec: 62.63697511134576
+
